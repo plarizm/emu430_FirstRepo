@@ -1,5 +1,5 @@
 ---
-title: "First Quarto Document"
+title: "First Quarto Doc"
 author: "Plarizm"
 format: html
 editor: visual
